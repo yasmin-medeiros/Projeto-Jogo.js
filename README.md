@@ -9,7 +9,6 @@
 - HTML
 - CSS
 <br>
-<br>
 
 #### 🔹 Interface do jogo:
 
