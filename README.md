@@ -8,7 +8,6 @@
 - JavaScript
 - HTML
 - CSS
-<br>
 
 #### 🔹 Interface do jogo:
 
