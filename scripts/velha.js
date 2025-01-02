@@ -42,7 +42,7 @@ b_reiniciar.addEventListener('click', (event) => {
 
     vencedor = '-'; //Reseta o vencedor
 
-    sortearJogador(); //Escolhe aleatoriamente qual jogador irá começar
+    sortearJogador(); //Escolhe aleatoriamente qual jogador irá iniciar 
 
     });
 
