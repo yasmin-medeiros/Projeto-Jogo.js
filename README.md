@@ -1,6 +1,6 @@
 # Projeto - Jogo 
 
- 🎮 Criação do jogo da velha
+ ## Criação do jogo da velha
 <br>
 ## 🌐👩🏻‍💻 Tecnologias
  As seguintes ferramentas foram usadas na construção do projeto: 
