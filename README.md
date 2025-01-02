@@ -3,6 +3,7 @@
  ## Criação do jogo da velha
 <br>
 # 🌐 Tecnologias
+
  As seguintes ferramentas foram usadas na construção do projeto: 
  
 - JavaScript
